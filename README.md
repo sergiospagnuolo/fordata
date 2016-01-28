@@ -89,6 +89,15 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Prose](https://github.com/prose/prose) - web-based interface for managing content on GitHub
 * [Newsplay](https://github.com/jueyang/newsplay) - gives out prompts for writing/publishing news with different tools, to different audience, on different platforms - from CUNY's [Jue Yang](https://twitter.com/jue_yang)
 
+### Cool Jekyll templates
+* [Strata](http://jekyllthemes.org/themes/strata/)
+* [Uno](http://jekyllthemes.org/themes/jekyll-uno/)
+* [Agency](http://jekyllthemes.org/themes/agency/)
+* [Greyscale](http://jekyllthemes.org/themes/grayscale/)
+* [Strange Case](http://jekyllthemes.org/themes/strangecase/)
+* [Landing Page](http://jekyllthemes.org/themes/landing-page/)
+* [Stylish](http://jekyllthemes.org/themes/stylish-portfolio/)
+* [Leonids](http://jekyllthemes.org/themes/leonids/)
 
 ### Other stuff
 * [Story Builder](http://storybuilder.jumpstart.ge/en) - engine para publicação de histórias, dá para baixar o código e publicar no seu servidor
