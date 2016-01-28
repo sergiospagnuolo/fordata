@@ -82,6 +82,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Parse Hub](https://www.parsehub.com/) - turn dynamic websites into APIs
 * [Table Generator](http://www.tablesgenerator.com/) - makes responsive tables, also quite useful
 * [SQL Pad](http://rickbergfalk.github.io/sqlpad/) - this beauty runs SQL in your browser - by [Rick Bergfalk](http://rickbergfalk.github.io/)
+* [JSON online editor](http://www.jsoneditoronline.org/) - fix your JSON
 
 ### Non-CMS solutions
 * [Jekyll](https://jekyllrb.com/) - cool way to publish on the web without fucking trying to kill yourself with other CMS solutions (I am not against CMS, I like them, but boy they are demanding fuckers)
@@ -103,6 +104,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Pym js](http://blog.apps.npr.org/pym.js/) - responsive iframes
 * [Inkscape](https://inkscape.org/pt/) - vector graphics designer
 * [Fusion guidelines](https://github.com/fusioneng/tech-docs)
+* [HTML validator](https://validator.w3.org) - check your HTML for errors
 
 
 ####### ref 1.: [TNW](http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/)
