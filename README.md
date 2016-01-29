@@ -1,5 +1,3 @@
-![Photo by Caroline Methot/Unsplash](https://images.unsplash.com/photo-1452796907770-ad6cd374b12d?crop=entropy&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1275)
-
 ## Data journalism tools reference list  
 
 This is a quick reference guide compiling numerous tools that can be used for journalistic purposes or other data/map-related approaches and projects.
@@ -132,3 +130,5 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 ####### ref 12.: [GitHub](https://github.com/jueyang/know-your-tools)
 
 _I sometimes try to name the tool's creators, but I don't put much effort into finding their name. If you want attribution, reach me through Twitter._
+
+![Photo by Caroline Methot/Unsplash](https://images.unsplash.com/photo-1452796907770-ad6cd374b12d?crop=entropy&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1275)
