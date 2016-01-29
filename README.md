@@ -133,6 +133,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 ####### ref 10.: [Dev Seed](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
 ####### ref 11.: [GitHub](https://github.com/prose/starter)
 ####### ref 12.: [GitHub](https://github.com/jueyang/know-your-tools)
+####### ref 13.: [GitHub](https://github.com/jueyang/mapmakers-cheatsheet)
 
 _I sometimes try to name the tool's creators, but I don't put much effort into finding their name. If you want attribution, reach me through Twitter._
 
