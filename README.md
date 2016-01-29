@@ -1,4 +1,4 @@
-## Data journalism tools reference list  
+## Advanced #DDJ tools reference list  
 
 This is a quick reference guide compiling numerous tools that can be used for journalistic purposes or other data/map-related approaches and projects.
 
@@ -63,6 +63,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Geo shape](https://www.elastic.co/guide/en/elasticsearch/reference/1.4/mapping-geo-shape-type.html) - facilitates the indexing of and searching with arbitrary geo shapes such as rectangles and polygons
 * [Landsat-util](https://github.com/developmentseed/landsat-util) - command line utility that makes it easy to search, download, and process Landsat imagery
 * [OSM-Meta-util](https://github.com/osmlab/osm-meta-util) - tool to download and process OSM Metadata
+* [PostGis](http://postgis.net/) - spatial database extender for PostgreSQL object-relational database
 
 
 ### Data
@@ -83,6 +84,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Table Generator](http://www.tablesgenerator.com/) - makes responsive tables, also quite useful
 * [SQL Pad](http://rickbergfalk.github.io/sqlpad/) - this beauty runs SQL in your browser - by [Rick Bergfalk](http://rickbergfalk.github.io/)
 * [JSON online editor](http://www.jsoneditoronline.org/) - fix your JSON
+* [PostgreSQL](http://www.postgresql.org/) -  open source object-relational database system
 
 ### Non-CMS solutions
 * [Jekyll](https://jekyllrb.com/) - cool way to publish on the web without fucking trying to kill yourself with other CMS solutions (I am not against CMS, I like them, but boy they are demanding fuckers)
@@ -114,6 +116,9 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Inkscape](https://inkscape.org/pt/) - vector graphics designer
 * [Fusion guidelines](https://github.com/fusioneng/tech-docs)
 * [HTML validator](https://validator.w3.org) - check your HTML for errors
+* [ProPublica Guides](https://github.com/propublica/guides)
+* [NPR best practices](https://github.com/nprapps/bestpractices)
+* [Kumu](https://www.kumu.io/) - relationship data
 
 
 ####### ref 1.: [TNW](http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/)
