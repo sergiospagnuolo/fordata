@@ -1,3 +1,5 @@
+![Photo by Caroline Methot/Unsplash](https://images.unsplash.com/photo-1452796907770-ad6cd374b12d?crop=entropy&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1275)
+
 ## Data journalism tools reference list  
 
 This is a quick reference guide compiling numerous tools that can be used for journalistic purposes or other data/map-related approaches and projects.
