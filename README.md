@@ -11,7 +11,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Plot.ly](https://plot.ly/javascript/bar-charts/) - JS library for data viz (uses CDN)
 * [D3](http://d3js.org/) - primary JS library for data viz (uses CDN) - by [Mike Bostock](https://twitter.com/mbostock)
 * [D3 - Generator](http://d3-generator.com/) - simple bar chart tool using D3
-* [Bonsai js](https://bonsaijs.org/) - convert shapres to SVG
+* [Bonsai js](https://bonsaijs.org/) - convert shapes to SVG
 * [Chartjs](http://www.chartjs.org/) - JS library for data viz
 * [Sheetsee js](http://jlord.us/sheetsee.js/) - JS library for small databeses using Google Sheets
 * [NVD3](http://nvd3.org/) - simple reusable chart tool using D3
