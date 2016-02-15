@@ -44,6 +44,8 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Tau Charts](http://taucharts.com/) - cool library for data viz
 * [Processing js](http://processingjs.org/) - data visualizations and interactive animations using web standards and without any plug-ins
 * [Chris Manning LFC Notation](http://christophermanning.org/projects/building-cubic-hamiltonian-graphs-from-lcf-notation) - LCF notation parser for graphs using d3.js - random, but addictive and cool
+* [Exhibit](http://www.simile-widgets.org/exhibit/) - create web pages with advanced text search and filtering functionalities
+* [Nodebox](https://www.nodebox.net/) - tools integrate with traditional design applications and run on many platforms
 
 
 ### Maps
@@ -64,6 +66,11 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Landsat-util](https://github.com/developmentseed/landsat-util) - command line utility that makes it easy to search, download, and process Landsat imagery
 * [OSM-Meta-util](https://github.com/osmlab/osm-meta-util) - tool to download and process OSM Metadata
 * [PostGis](http://postgis.net/) - spatial database extender for PostgreSQL object-relational database
+* [Open Layers](http://openlayers.org/) - high-performance, feature-packed library for all your mapping needs
+* [Kumu](https://www.kumu.io/) - relationship data
+* [Crossfilter](http://square.github.io/crossfilter/) - JavaScript library for exploring large multivariate datasets in the browser
+* [JS Infovis Toolkit](http://philogb.github.io/jit/) - provides tools for creating Interactive Data Visualizations for the Web
+* [Wolfram Alfa](http://www.wolframalpha.com/)
 
 
 ### Data
@@ -85,6 +92,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [SQL Pad](http://rickbergfalk.github.io/sqlpad/) - this beauty runs SQL in your browser - by [Rick Bergfalk](http://rickbergfalk.github.io/)
 * [JSON online editor](http://www.jsoneditoronline.org/) - fix your JSON
 * [PostgreSQL](http://www.postgresql.org/) -  open source object-relational database system
+* [Modest Maps](http://modestmaps.com/) - small, extensible, and free library to use interactive maps
 
 ### Non-CMS solutions
 * [Jekyll](https://jekyllrb.com/) - cool way to publish on the web without fucking trying to kill yourself with other CMS solutions (I am not against CMS, I like them, but boy they are demanding fuckers)
@@ -118,7 +126,6 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [HTML validator](https://validator.w3.org) - check your HTML for errors
 * [ProPublica Guides](https://github.com/propublica/guides)
 * [NPR best practices](https://github.com/nprapps/bestpractices)
-* [Kumu](https://www.kumu.io/) - relationship data
 
 
 ####### ref 1.: [TNW](http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/)
