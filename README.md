@@ -46,6 +46,8 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Chris Manning LFC Notation](http://christophermanning.org/projects/building-cubic-hamiltonian-graphs-from-lcf-notation) - LCF notation parser for graphs using d3.js - random, but addictive and cool
 * [Exhibit](http://www.simile-widgets.org/exhibit/) - create web pages with advanced text search and filtering functionalities
 * [Nodebox](https://www.nodebox.net/) - tools integrate with traditional design applications and run on many platforms
+* [Three js](http://threejs.org/) - build 3D stuff with it
+* [Underscore](http://underscorejs.org/) - JavaScript library that provides useful functional programming helpers without extending any built-in objects
 
 
 ### Maps
