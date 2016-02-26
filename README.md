@@ -8,6 +8,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 
 ### Graphs
 
+* [CDN](https://cdnjs.com/) - Useful CDN links for several JS libraries
 * [Plot.ly](https://plot.ly/javascript/bar-charts/) - JS library for data viz (uses CDN)
 * [D3](http://d3js.org/) - primary JS library for data viz (uses CDN) - by [Mike Bostock](https://twitter.com/mbostock)
 * [D3 - Generator](http://d3-generator.com/) - simple bar chart tool using D3
