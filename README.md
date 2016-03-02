@@ -101,6 +101,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Jekyll](https://jekyllrb.com/) - cool way to publish on the web without fucking trying to kill yourself with other CMS solutions (I am not against CMS, I like them, but boy they are demanding fuckers)
 * [Prose](https://github.com/prose/prose) - web-based interface for managing content on GitHub
 * [Newsplay](https://github.com/jueyang/newsplay) - gives out prompts for writing/publishing news with different tools, to different audience, on different platforms - from CUNY's [Jue Yang](https://twitter.com/jue_yang)
+* [Assembly](http://themeforest.net/item/assembly-multipurpose-theme-with-page-builder/12536114) - page builder, drag and drop style
 
 ### Cool Jekyll templates
 * [Strata](http://jekyllthemes.org/themes/strata/)
