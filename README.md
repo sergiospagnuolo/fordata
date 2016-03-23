@@ -83,6 +83,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [CSV/Google Sheets to GeoJson](https://github.com/mapbox/geo-googledocs/) - make your Google Sheet into GeoJSON file format
 * [JsonLint](http://jsonlint.com/#) - JSON validator
 * [Json to CSV](http://konklone.io/json/) - useful
+* [Json Editor](http://www.jsoneditoronline.org/) - editor of Json
 * [Editdata.org](http://editdata.org/about) - tool for editing CSV & JSON files from your computer & from GitHub
 * [Blockspring](https://www.blockspring.com/) - integrates Google Sheets with webservices like Tableau and Slack
 * [DataDeck](http://explorer.okfnlabs.org/#start) - clean your data and add it to a map or some simple visualization
