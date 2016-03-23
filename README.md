@@ -44,6 +44,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Lyra](http://idl.cs.washington.edu/projects/lyra/app/) - draw dinamic data viz
 * [Tau Charts](http://taucharts.com/) - cool library for data viz
 * [Processing js](http://processingjs.org/) - data visualizations and interactive animations using web standards and without any plug-ins
+* [Processing](https://processing.org/) - Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts
 * [Chris Manning LFC Notation](http://christophermanning.org/projects/building-cubic-hamiltonian-graphs-from-lcf-notation) - LCF notation parser for graphs using d3.js - random, but addictive and cool
 * [Exhibit](http://www.simile-widgets.org/exhibit/) - create web pages with advanced text search and filtering functionalities
 * [Nodebox](https://www.nodebox.net/) - tools integrate with traditional design applications and run on many platforms
@@ -77,6 +78,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Wolfram Alfa](http://www.wolframalpha.com/)
 * [Pattrn](http://pattrn.co/) - cool dashboards withs maps
 * [TopoJson](https://github.com/mbostock/topojson) - TopoJSON is an extension of GeoJSON that encodes topology
+* [Unfolding](http://unfoldingmaps.org/) - Unfolding is a library to create interactive maps and geovisualizations in Processing and Java
 
 
 ### Data
