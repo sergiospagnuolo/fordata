@@ -49,6 +49,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Nodebox](https://www.nodebox.net/) - tools integrate with traditional design applications and run on many platforms
 * [Three js](http://threejs.org/) - build 3D stuff with it
 * [Underscore](http://underscorejs.org/) - JavaScript library that provides useful functional programming helpers without extending any built-in objects
+* [ggplot](http://ggplot2.org/) - ggplot2 is a plotting system for R, based on the grammar of graphics
 
 
 ### Maps
@@ -75,6 +76,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [JS Infovis Toolkit](http://philogb.github.io/jit/) - provides tools for creating Interactive Data Visualizations for the Web
 * [Wolfram Alfa](http://www.wolframalpha.com/)
 * [Pattrn](http://pattrn.co/) - cool dashboards withs maps
+* [TopoJson](https://github.com/mbostock/topojson) - TopoJSON is an extension of GeoJSON that encodes topology
 
 
 ### Data
