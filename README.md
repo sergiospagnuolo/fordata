@@ -74,6 +74,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Crossfilter](http://square.github.io/crossfilter/) - JavaScript library for exploring large multivariate datasets in the browser
 * [JS Infovis Toolkit](http://philogb.github.io/jit/) - provides tools for creating Interactive Data Visualizations for the Web
 * [Wolfram Alfa](http://www.wolframalpha.com/)
+* [Pattrn](http://pattrn.co/) - cool dashboards withs maps
 
 
 ### Data
@@ -81,6 +82,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Google Sheets to Json](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) - make your Google Sheet into JSON file format
 * [CSV/Google Sheets to GeoJson](https://github.com/mapbox/geo-googledocs/) - make your Google Sheet into GeoJSON file format
 * [JsonLint](http://jsonlint.com/#) - JSON validator
+* [Json to CSV](http://konklone.io/json/) - useful
 * [Editdata.org](http://editdata.org/about) - tool for editing CSV & JSON files from your computer & from GitHub
 * [Blockspring](https://www.blockspring.com/) - integrates Google Sheets with webservices like Tableau and Slack
 * [DataDeck](http://explorer.okfnlabs.org/#start) - clean your data and add it to a map or some simple visualization
