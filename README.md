@@ -56,6 +56,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 ### Maps
 * [Leaflet](http://leafletjs.com/) - Js library for maps (uses CDN)
 * [Polymap](http://polymaps.org/) - free JS library for dynamic, interactive maps
+* [Open Refine address to LAT/LONG](https://github.com/OpenRefine/OpenRefine/wiki/Geocoding) - transform address to lat/long values in a CSV using Open Refine
 * [OSM Boundaries](https://osm.wno-edv-service.de/boundaries/) - Region, countries, sub-regions, cities - you can get all their polygons here
 * [Polygon Creator](http://polygons.openstreetmap.fr/index.py) - very straightforward name
 * [Mapbox](https://www.mapbox.com) - great mapping tool, especially for basemaps design
