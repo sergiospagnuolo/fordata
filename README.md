@@ -87,6 +87,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Google Sheets to Json](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) - make your Google Sheet into JSON file format
 * [CSV/Google Sheets to GeoJson](https://github.com/mapbox/geo-googledocs/) - make your Google Sheet into GeoJSON file format
 * [JsonLint](http://jsonlint.com/#) - JSON validator
+* [CSV to JSON](http://www.csvjson.com/csv2json) - the best one out there
 * [Json to CSV](http://konklone.io/json/) - useful
 * [Json Editor](http://www.jsoneditoronline.org/) - editor of Json
 * [Editdata.org](http://editdata.org/about) - tool for editing CSV & JSON files from your computer & from GitHub
@@ -140,6 +141,8 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [NPR best practices](https://github.com/nprapps/bestpractices)
 * [Stevedore](https://github.com/newsdev/stevedore) - make your search engine out of a .zip file
 * [Balsamiq](https://balsamiq.com/download/#) - wireframing tool
+* [Gifmaker](http://gifmaker.me/) - best for making Gifs
+* [Makr a Gif](http://makeagif.com/) - easiest to share Gifs on social media
 
 
 ####### ref 1.: [TNW](http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/)
