@@ -51,6 +51,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Three js](http://threejs.org/) - build 3D stuff with it
 * [Underscore](http://underscorejs.org/) - JavaScript library that provides useful functional programming helpers without extending any built-in objects
 * [ggplot](http://ggplot2.org/) - ggplot2 is a plotting system for R, based on the grammar of graphics
+* [DC js](https://github.com/dc-js/dc.js) - yet another javascript library for data viz
 
 
 ### Maps
