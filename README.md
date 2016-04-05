@@ -106,6 +106,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [JSON online editor](http://www.jsoneditoronline.org/) - fix your JSON
 * [PostgreSQL](http://www.postgresql.org/) -  open source object-relational database system
 * [Modest Maps](http://modestmaps.com/) - small, extensible, and free library to use interactive maps
+* [Regex](http://regexr.com/) - online tool to learn, build, & test Regular Expressions
 
 ### Non-CMS solutions
 * [Jekyll](https://jekyllrb.com/) - cool way to publish on the web without fucking trying to kill yourself with other CMS solutions (I am not against CMS, I like them, but boy they are demanding fuckers)
