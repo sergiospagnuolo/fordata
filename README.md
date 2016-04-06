@@ -145,6 +145,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Balsamiq](https://balsamiq.com/download/#) - wireframing tool
 * [Gifmaker](http://gifmaker.me/) - best for making Gifs
 * [Makr a Gif](http://makeagif.com/) - easiest to share Gifs on social media
+* [Epic editor](http://epiceditor.com/) - embeddable javascript markdown editor
 
 
 ####### ref 1.: [TNW](http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/)
