@@ -107,6 +107,9 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [PostgreSQL](http://www.postgresql.org/) -  open source object-relational database system
 * [Modest Maps](http://modestmaps.com/) - small, extensible, and free library to use interactive maps
 * [Regexr](http://regexr.com/) - online tool to learn, build, & test Regular Expressions
+* [Tabula-extractor](https://github.com/tabulapdf/tabula-extractor) - extract tables from PDF files
+* [Tabula-java](https://github.com/tabulapdf/tabula-java) - extract tables from PDF files, newer version
+* [Tabula](http://tabula.technology/) - extract tables from PDF files
 
 ### Non-CMS solutions
 * [Jekyll](https://jekyllrb.com/) - cool way to publish on the web without fucking trying to kill yourself with other CMS solutions (I am not against CMS, I like them, but boy they are demanding fuckers)
