@@ -85,6 +85,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 
 ### Data
 * [Googlesheets API hack](http://imagine-it.org/google/spreadsheets/makechart.htm) - Create a chart from a published Google Spreadsheet
+* [Google API](https://developers.google.com/identity/)
 * [R](https://www.r-project.org/) - statistical analysis software
 * [Google Sheets to Json](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) - make your Google Sheet into JSON file format
 * [CSV/Google Sheets to GeoJson](https://github.com/mapbox/geo-googledocs/) - make your Google Sheet into GeoJSON file format
