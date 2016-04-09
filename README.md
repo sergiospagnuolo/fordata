@@ -52,6 +52,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Underscore](http://underscorejs.org/) - JavaScript library that provides useful functional programming helpers without extending any built-in objects
 * [ggplot](http://ggplot2.org/) - ggplot2 is a plotting system for R, based on the grammar of graphics
 * [DC js](https://github.com/dc-js/dc.js) - yet another javascript library for data viz
+* [Plot Kit](http://bits.liquidx.net/projects/plotkit-svn/tests/dynamic.html) - simple charts
 
 
 ### Maps
