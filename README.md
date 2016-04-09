@@ -52,8 +52,6 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Underscore](http://underscorejs.org/) - JavaScript library that provides useful functional programming helpers without extending any built-in objects
 * [ggplot](http://ggplot2.org/) - ggplot2 is a plotting system for R, based on the grammar of graphics
 * [DC js](https://github.com/dc-js/dc.js) - yet another javascript library for data viz
-* [Plot Kit](http://bits.liquidx.net/projects/plotkit-svn/tests/dynamic.html) - simple charts
-
 
 ### Maps
 * [Leaflet](http://leafletjs.com/) - Js library for maps (uses CDN)
@@ -84,7 +82,6 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Unfolding](http://unfoldingmaps.org/) - Unfolding is a library to create interactive maps and geovisualizations in Processing and Java
 
 ### Data
-* [Googlesheets API hack](http://imagine-it.org/google/spreadsheets/makechart.htm) - Create a chart from a published Google Spreadsheet
 * [Google API](https://developers.google.com/identity/)
 * [R](https://www.r-project.org/) - statistical analysis software
 * [Google Sheets to Json](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) - make your Google Sheet into JSON file format
