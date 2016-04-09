@@ -82,8 +82,8 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [TopoJson](https://github.com/mbostock/topojson) - TopoJSON is an extension of GeoJSON that encodes topology
 * [Unfolding](http://unfoldingmaps.org/) - Unfolding is a library to create interactive maps and geovisualizations in Processing and Java
 
-
 ### Data
+* [Googlesheets API hack](http://imagine-it.org/google/spreadsheets/makechart.htm) - Create a chart from a published Google Spreadsheet
 * [R](https://www.r-project.org/) - statistical analysis software
 * [Google Sheets to Json](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) - make your Google Sheet into JSON file format
 * [CSV/Google Sheets to GeoJson](https://github.com/mapbox/geo-googledocs/) - make your Google Sheet into GeoJSON file format
