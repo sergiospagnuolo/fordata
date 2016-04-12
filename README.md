@@ -52,6 +52,18 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Underscore](http://underscorejs.org/) - JavaScript library that provides useful functional programming helpers without extending any built-in objects
 * [ggplot](http://ggplot2.org/) - ggplot2 is a plotting system for R, based on the grammar of graphics
 * [DC js](https://github.com/dc-js/dc.js) - yet another javascript library for data viz
+* [Time plot](http://www.simile-widgets.org/timeplot/) - widget for plotting time series and overlay time-based events over them
+* [ICO](https://github.com/uiteoi/ico) - JavaScript graph library that uses Raphaël to render graphics
+* [Ely](http://elycharts.com/) - pure javascript charting library, easy to use and completely customizable
+* [Dojo](http://dojotoolkit.org/documentation/tutorials/1.8/charting/) - create dynamic, unique, and functional charts
+* [CanvasXpress](http://canvasxpress.org/) - standalone HTML5 graphing library written in Javascript
+* [CCchart](http://ccchart.com/) - a Simple JavaScript chart that does not depend on libraries such as jQuery
+* [js InfovisToolkit](http://philogb.github.io/jit/) - tools for creating Interactive Data Visualizations for the Web
+* [JSXGraph](http://jsxgraph.uni-bayreuth.de/wp/) - interactive geometry, plotting, visualization
+* [Smoothie Charts](http://smoothiecharts.org/) - JavaScript Charting Library for Streaming Data
+* [Metrics Graphics](http://metricsgraphicsjs.org/) - library built on top of D3 that is optimized for visualizing and laying out time-series data
+* [Awesome Charts](http://cyberpython.github.io/AwesomeChartJS/) - charts with JavaScript and the canvas element
+* 
 
 ### Maps
 * [Leaflet](http://leafletjs.com/) - Js library for maps (uses CDN)
@@ -80,6 +92,14 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Pattrn](http://pattrn.co/) - cool dashboards withs maps
 * [TopoJson](https://github.com/mbostock/topojson) - TopoJSON is an extension of GeoJSON that encodes topology
 * [Unfolding](http://unfoldingmaps.org/) - Unfolding is a library to create interactive maps and geovisualizations in Processing and Java
+* [Data Maps](http://datamaps.github.io/) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
+* [Grafico](https://grafico.kilianvalkhof.com/) - javascript charting library based on Raphaël and Prototype.js
+* [Time Chart](http://timechart.toolset.io/) - powerful and simple to use chart library for creating time based charts in pure HTML5-JavaScript
+* [Joint js](http://www.jointjs.com/) - HTML 5 Flow Charts, BPMN And Other Diagrams
+* [sDashboard](http://modeln.github.io/sDashboard/) - simple & light weight dashboard framework in javascript
+* [DViz](https://github.com/akngs/dviz) - declarative data visualization library written in Javascript
+* [CSS plot](http://asciimoo.github.io/cssplot/) - pute CSS charts (very easy to use and light weight)
+* [Chart kick](https://github.com/ankane/chartkick.js) - beautiful JavaScript charts with minimal code, and upports Google Charts and Highcharts and works with most browsers
 
 ### Data
 * [Google API](https://developers.google.com/identity/)
@@ -165,6 +185,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 ####### ref 13.: [GitHub](https://github.com/jueyang/mapmakers-cheatsheet)
 ####### ref 14.: [CB](http://www.creativebloq.com/design-tools/data-visualization-712402)
 ####### ref 15.: [Silk](http://data-journalism-tools.silk.co/)
+####### ref 16.: [TS](http://techslides.com/50-javascript-charting-and-graphics-libraries)
 
 _I sometimes try to name the tool's creators, but I don't put much effort into finding their name. If you want attribution, reach me through Twitter._
 
