@@ -63,7 +63,14 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Smoothie Charts](http://smoothiecharts.org/) - JavaScript Charting Library for Streaming Data
 * [Metrics Graphics](http://metricsgraphicsjs.org/) - library built on top of D3 that is optimized for visualizing and laying out time-series data
 * [Awesome Charts](http://cyberpython.github.io/AwesomeChartJS/) - charts with JavaScript and the canvas element
-* 
+* [Grafico](https://grafico.kilianvalkhof.com/) - javascript charting library based on Raphaël and Prototype.js
+* [Time Chart](http://timechart.toolset.io/) - powerful and simple to use chart library for creating time based charts in pure HTML5-JavaScript
+* [Joint js](http://www.jointjs.com/) - HTML 5 Flow Charts, BPMN And Other Diagrams
+* [sDashboard](http://modeln.github.io/sDashboard/) - simple & light weight dashboard framework in javascript
+* [DViz](https://github.com/akngs/dviz) - declarative data visualization library written in Javascript
+* [CSS plot](http://asciimoo.github.io/cssplot/) - pute CSS charts (very easy to use and light weight)
+* [Chart kick](https://github.com/ankane/chartkick.js) - beautiful JavaScript charts with minimal code, and upports Google Charts and Highcharts and works with most browsers
+
 
 ### Maps
 * [Leaflet](http://leafletjs.com/) - Js library for maps (uses CDN)
@@ -93,13 +100,6 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [TopoJson](https://github.com/mbostock/topojson) - TopoJSON is an extension of GeoJSON that encodes topology
 * [Unfolding](http://unfoldingmaps.org/) - Unfolding is a library to create interactive maps and geovisualizations in Processing and Java
 * [Data Maps](http://datamaps.github.io/) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
-* [Grafico](https://grafico.kilianvalkhof.com/) - javascript charting library based on Raphaël and Prototype.js
-* [Time Chart](http://timechart.toolset.io/) - powerful and simple to use chart library for creating time based charts in pure HTML5-JavaScript
-* [Joint js](http://www.jointjs.com/) - HTML 5 Flow Charts, BPMN And Other Diagrams
-* [sDashboard](http://modeln.github.io/sDashboard/) - simple & light weight dashboard framework in javascript
-* [DViz](https://github.com/akngs/dviz) - declarative data visualization library written in Javascript
-* [CSS plot](http://asciimoo.github.io/cssplot/) - pute CSS charts (very easy to use and light weight)
-* [Chart kick](https://github.com/ankane/chartkick.js) - beautiful JavaScript charts with minimal code, and upports Google Charts and Highcharts and works with most browsers
 
 ### Data
 * [Google API](https://developers.google.com/identity/)
