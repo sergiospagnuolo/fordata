@@ -145,6 +145,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Landing Page](http://jekyllthemes.org/themes/landing-page/)
 * [Stylish](http://jekyllthemes.org/themes/stylish-portfolio/)
 * [Leonids](http://jekyllthemes.org/themes/leonids/)
+* [Slender](http://jekyllthemes.org/themes/slender/)
 
 ### Other stuff
 * [Story Builder](http://storybuilder.jumpstart.ge/en) - engine para publicação de histórias, dá para baixar o código e publicar no seu servidor
