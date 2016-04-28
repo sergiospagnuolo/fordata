@@ -70,6 +70,10 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [DViz](https://github.com/akngs/dviz) - declarative data visualization library written in Javascript
 * [CSS plot](http://asciimoo.github.io/cssplot/) - pute CSS charts (very easy to use and light weight)
 * [Chart kick](https://github.com/ankane/chartkick.js) - beautiful JavaScript charts with minimal code, and upports Google Charts and Highcharts and works with most browsers
+* [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/) - Python visualization library based on matplotlib
+* [Blockspring](https://www.blockspring.com/) - makes it simple to get data, automate reports, and run machine learning algorithms from your spreadsheets
+* [Superconductor](http://superconductor.github.io/superconductor/) - framework for creating data visualizations that scale to real-time interactions with up to 1,000,000 data points
+
 
 
 ### Maps
