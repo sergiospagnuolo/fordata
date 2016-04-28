@@ -129,6 +129,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Tabula-extractor](https://github.com/tabulapdf/tabula-extractor) - extract tables from PDF files
 * [Tabula-java](https://github.com/tabulapdf/tabula-java) - extract tables from PDF files, newer version
 * [Tabula](http://tabula.technology/) - extract tables from PDF files
+* [SWAPI](https://swapi.co/) - API with data about Star Wars all data available as JSON [here](https://github.com/phalt/swapi/tree/master/resources/fixtures#)
 
 ### Non-CMS solutions
 * [Jekyll](https://jekyllrb.com/) - cool way to publish on the web without fucking trying to kill yourself with other CMS solutions (I am not against CMS, I like them, but boy they are demanding fuckers)
