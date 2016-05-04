@@ -8,7 +8,10 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 
 Tools for: [Graphs](#graphs) - [Maps](#maps) - [Data](#data) - [APIs](#apis) - [Non CMS](#noncms) - [Jekyll](#jk) - [Other Stuff](#stuff)
 
-### Graphs <div id="graphs"></div>
+___
+
+<div id="graphs"></div>
+### Graphs
 
 * [CDN](https://cdnjs.com/) - Useful CDN links for several JS libraries
 * [Plot.ly](https://plot.ly/javascript/bar-charts/) - JS library for data viz (uses CDN)
@@ -77,8 +80,8 @@ Tools for: [Graphs](#graphs) - [Maps](#maps) - [Data](#data) - [APIs](#apis) - [
 * [Superconductor](http://superconductor.github.io/superconductor/) - framework for creating data visualizations that scale to real-time interactions with up to 1,000,000 data points
 
 
-
-### Maps <div id="maps"></div>
+<div id="maps"></div>
+### Maps 
 * [Leaflet](http://leafletjs.com/) - Js library for maps (uses CDN)
 * [Polymap](http://polymaps.org/) - free JS library for dynamic, interactive maps
 * [Open Refine address to LAT/LONG](https://github.com/OpenRefine/OpenRefine/wiki/Geocoding) - transform address to lat/long values in a CSV using Open Refine
@@ -136,19 +139,21 @@ Tools for: [Graphs](#graphs) - [Maps](#maps) - [Data](#data) - [APIs](#apis) - [
 * [Tabula-java](https://github.com/tabulapdf/tabula-java) - extract tables from PDF files, newer version
 * [Tabula](http://tabula.technology/) - extract tables from PDF files
 
-
-### Cool APIs <div id="apis"></div>
+<div id="apis"></div>
+### Cool APIs 
 * [SWAPI](https://swapi.co/) - API with data about Star Wars all data available as JSON [here](https://github.com/phalt/swapi/tree/master/resources/fixtures#)
 * [CityBikes](http://api.citybik.es/v2/) - data on bike sharing
 * [API of Ice and Fire](https://anapioficeandfire.com/) - GOT
 
-### Non-CMS solutions <div id="noncms"></div>
+<div id="noncms"></div>
+### Non-CMS solutions 
 * [Jekyll](https://jekyllrb.com/) - cool way to publish on the web without fucking trying to kill yourself with other CMS solutions (I am not against CMS, I like them, but boy they are demanding fuckers)
 * [Prose](https://github.com/prose/prose) - web-based interface for managing content on GitHub
 * [Newsplay](https://github.com/jueyang/newsplay) - gives out prompts for writing/publishing news with different tools, to different audience, on different platforms - from CUNY's [Jue Yang](https://twitter.com/jue_yang)
 * [Assembly](http://themeforest.net/item/assembly-multipurpose-theme-with-page-builder/12536114) - page builder, drag and drop style
 
-### Cool Jekyll templates <div id="jk"></div>
+<div id="jk"></div>
+### Cool Jekyll templates 
 * [Strata](http://jekyllthemes.org/themes/strata/)
 * [Uno](http://jekyllthemes.org/themes/jekyll-uno/)
 * [Agency](http://jekyllthemes.org/themes/agency/)
@@ -159,7 +164,8 @@ Tools for: [Graphs](#graphs) - [Maps](#maps) - [Data](#data) - [APIs](#apis) - [
 * [Leonids](http://jekyllthemes.org/themes/leonids/)
 * [Slender](http://jekyllthemes.org/themes/slender/)
 
-### Other stuff <div id="stuff"></div>
+<div id="stuff"></div>
+### Other stuff 
 * [Story Builder](http://storybuilder.jumpstart.ge/en) - engine para publicação de histórias, dá para baixar o código e publicar no seu servidor
 * [Stack Edit](https://stackedit.io/editor) - editor online de Markdown
 * [AWS S3](http://aws.amazon.com/s3/)
