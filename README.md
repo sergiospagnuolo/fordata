@@ -6,7 +6,9 @@ The great majority of tools and libraries shown here are free to use and or open
 
 _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have any suggestions or tips for this list, reach me through [Twitter - @ProjetoStock](https://twitter.com/ProjetoStock)._
 
-### Graphs
+Tools for: [Graphs](#graphs) - [Maps](#maps) - [Data](#data) - [APIs](#apis) - [Non CMS](#noncms) - [Jekyll](#jk) - [Other Stuff](#stuff)
+
+### Graphs <div id="graphs"></div>
 
 * [CDN](https://cdnjs.com/) - Useful CDN links for several JS libraries
 * [Plot.ly](https://plot.ly/javascript/bar-charts/) - JS library for data viz (uses CDN)
@@ -76,7 +78,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 
 
 
-### Maps
+### Maps <div id="maps"></div>
 * [Leaflet](http://leafletjs.com/) - Js library for maps (uses CDN)
 * [Polymap](http://polymaps.org/) - free JS library for dynamic, interactive maps
 * [Open Refine address to LAT/LONG](https://github.com/OpenRefine/OpenRefine/wiki/Geocoding) - transform address to lat/long values in a CSV using Open Refine
@@ -105,7 +107,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Unfolding](http://unfoldingmaps.org/) - Unfolding is a library to create interactive maps and geovisualizations in Processing and Java
 * [Data Maps](http://datamaps.github.io/) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
 
-### Data
+### Data <div id="data"></div>
 * [Google API](https://developers.google.com/identity/)
 * [R](https://www.r-project.org/) - statistical analysis software
 * [Google Sheets to Json](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) - make your Google Sheet into JSON file format
@@ -135,18 +137,18 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Tabula](http://tabula.technology/) - extract tables from PDF files
 
 
-### Cool APIs
+### Cool APIs <div id="apis"></div>
 * [SWAPI](https://swapi.co/) - API with data about Star Wars all data available as JSON [here](https://github.com/phalt/swapi/tree/master/resources/fixtures#)
 * [CityBikes](http://api.citybik.es/v2/) - data on bike sharing
 * [API of Ice and Fire](https://anapioficeandfire.com/) - GOT
 
-### Non-CMS solutions
+### Non-CMS solutions <div id="noncms"></div>
 * [Jekyll](https://jekyllrb.com/) - cool way to publish on the web without fucking trying to kill yourself with other CMS solutions (I am not against CMS, I like them, but boy they are demanding fuckers)
 * [Prose](https://github.com/prose/prose) - web-based interface for managing content on GitHub
 * [Newsplay](https://github.com/jueyang/newsplay) - gives out prompts for writing/publishing news with different tools, to different audience, on different platforms - from CUNY's [Jue Yang](https://twitter.com/jue_yang)
 * [Assembly](http://themeforest.net/item/assembly-multipurpose-theme-with-page-builder/12536114) - page builder, drag and drop style
 
-### Cool Jekyll templates
+### Cool Jekyll templates <div id="jk"></div>
 * [Strata](http://jekyllthemes.org/themes/strata/)
 * [Uno](http://jekyllthemes.org/themes/jekyll-uno/)
 * [Agency](http://jekyllthemes.org/themes/agency/)
@@ -157,7 +159,7 @@ _Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have a
 * [Leonids](http://jekyllthemes.org/themes/leonids/)
 * [Slender](http://jekyllthemes.org/themes/slender/)
 
-### Other stuff
+### Other stuff <div id="stuff"></div>
 * [Story Builder](http://storybuilder.jumpstart.ge/en) - engine para publicação de histórias, dá para baixar o código e publicar no seu servidor
 * [Stack Edit](https://stackedit.io/editor) - editor online de Markdown
 * [AWS S3](http://aws.amazon.com/s3/)
