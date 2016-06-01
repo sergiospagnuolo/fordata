@@ -78,6 +78,7 @@ ___
 * [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/) - Python visualization library based on matplotlib
 * [Blockspring](https://www.blockspring.com/) - makes it simple to get data, automate reports, and run machine learning algorithms from your spreadsheets
 * [Superconductor](http://superconductor.github.io/superconductor/) - framework for creating data visualizations that scale to real-time interactions with up to 1,000,000 data points
+* [D3plus](http://d3plus.org/) - make charts in D3
 
 
 <div id="maps"></div>
@@ -138,6 +139,7 @@ ___
 * [Tabula-extractor](https://github.com/tabulapdf/tabula-extractor) - extract tables from PDF files
 * [Tabula-java](https://github.com/tabulapdf/tabula-java) - extract tables from PDF files, newer version
 * [Tabula](http://tabula.technology/) - extract tables from PDF files
+* [CSVKit](https://csvkit.readthedocs.io/en/0.9.1/) - a suite of utilities for converting to and working with CSV
 
 <div id="apis"></div>
 ### Cool APIs 
