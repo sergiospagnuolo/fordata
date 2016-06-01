@@ -79,6 +79,8 @@ ___
 * [Blockspring](https://www.blockspring.com/) - makes it simple to get data, automate reports, and run machine learning algorithms from your spreadsheets
 * [Superconductor](http://superconductor.github.io/superconductor/) - framework for creating data visualizations that scale to real-time interactions with up to 1,000,000 data points
 * [D3plus](http://d3plus.org/) - make charts in D3
+* [Polestar](http://vega.github.io/polestar/) - lightweight Tableau-style interface for visual analysis
+* [Easychart](http://www.easychart.org/) - a visual editor for Highcharts in drupal
 
 
 <div id="maps"></div>
