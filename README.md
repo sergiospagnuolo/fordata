@@ -112,6 +112,7 @@ ___
 * [TopoJson](https://github.com/mbostock/topojson) - TopoJSON is an extension of GeoJSON that encodes topology
 * [Unfolding](http://unfoldingmaps.org/) - Unfolding is a library to create interactive maps and geovisualizations in Processing and Java
 * [Data Maps](http://datamaps.github.io/) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
+* [Batch Geocode](http://www.findlatitudeandlongitude.com/batch-geocode/) - Amazing, useful batch geocode tool, don't have words for it
 
 ### Data <div id="data"></div>
 * [Google API](https://developers.google.com/identity/)
@@ -142,6 +143,7 @@ ___
 * [Tabula-java](https://github.com/tabulapdf/tabula-java) - extract tables from PDF files, newer version
 * [Tabula](http://tabula.technology/) - extract tables from PDF files
 * [CSVKit](https://csvkit.readthedocs.io/en/0.9.1/) - a suite of utilities for converting to and working with CSV
+* [Batch Geocode](http://www.findlatitudeandlongitude.com/batch-geocode/) - Amazing, useful batch geocode tool, don't have words for it
 
 <div id="apis"></div>
 ### Cool APIs 
