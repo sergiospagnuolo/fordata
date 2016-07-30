@@ -115,6 +115,7 @@ ___
 * [Batch Geocode](http://www.findlatitudeandlongitude.com/batch-geocode/) - Amazing, useful batch geocode tool, don't have words for it
 
 ### Data <div id="data"></div>
+* [Code beautify](http://codebeautify.org/) - best tool for data convertion into other formats
 * [Google API](https://developers.google.com/identity/)
 * [R](https://www.r-project.org/) - statistical analysis software
 * [Google Sheets to Json](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) - make your Google Sheet into JSON file format
