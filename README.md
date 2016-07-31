@@ -108,7 +108,7 @@ ___
 * [Kumu](https://www.kumu.io/) - relationship data
 * [Crossfilter](http://square.github.io/crossfilter/) - JavaScript library for exploring large multivariate datasets in the browser
 * [JS Infovis Toolkit](http://philogb.github.io/jit/) - provides tools for creating Interactive Data Visualizations for the Web
-* [Wolfram Alfa](http://www.wolframalpha.com/)
+* [Wolfram Alfa](http://www.wolframalpha.com/) - introduces a fundamentally new way to get knowledge and answers
 * [Pattrn](http://pattrn.co/) - cool dashboards withs maps
 * [TopoJson](https://github.com/mbostock/topojson) - TopoJSON is an extension of GeoJSON that encodes topology
 * [Unfolding](http://unfoldingmaps.org/) - Unfolding is a library to create interactive maps and geovisualizations in Processing and Java
@@ -120,7 +120,7 @@ ___
 * [Code beautify](http://codebeautify.org/) - best tool for data convertion into other formats
 * [Google API](https://developers.google.com/identity/)
 * [R](https://www.r-project.org/) - statistical analysis software
-* [Google Sheets to Json](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) - make your Google Sheet into JSON file format
+* [Google Sheets to Json](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html) - make your Google Sheet into JSON file format 
 * [CSV/Google Sheets to GeoJson](https://github.com/mapbox/geo-googledocs/) - make your Google Sheet into GeoJSON file format
 * [JsonLint](http://jsonlint.com/#) - JSON validator
 * [CSV to JSON](http://www.csvjson.com/csv2json) - the best one out there
@@ -134,7 +134,7 @@ ___
 * [RTG - Responsive Table Generator] (http://inn.github.io/responsive-tables/#) - makes responsive tables, quite useful
 * [Convert CSV](http://www.convertcsv.com/) - it does that
 * [Cube](http://square.github.io/cube/) - system for collecting timestamped events and deriving metrics
-* [Quartz's guide about bada data](https://github.com/Quartz/bad-data-guide)
+* [Quartz's guide about bada data](https://github.com/Quartz/bad-data-guide) - a guide to organize data
 * [Parse Hub](https://www.parsehub.com/) - turn dynamic websites into APIs
 * [Table Generator](http://www.tablesgenerator.com/) - makes responsive tables, also quite useful
 * [SQL Pad](http://rickbergfalk.github.io/sqlpad/) - this beauty runs SQL in your browser - by [Rick Bergfalk](http://rickbergfalk.github.io/)
