@@ -80,6 +80,7 @@ ___
 * [Superconductor](http://superconductor.github.io/superconductor/) - framework for creating data visualizations that scale to real-time interactions with up to 1,000,000 data points
 * [D3plus](http://d3plus.org/) - make charts in D3
 * [Polestar](http://vega.github.io/polestar/) - lightweight Tableau-style interface for visual analysis
+* [Vega](https://vega.github.io/) - declarative format for creating, saving, and sharing visualization designs
 * [Easychart](http://www.easychart.org/) - a visual editor for Highcharts in drupal
 
 
@@ -113,6 +114,7 @@ ___
 * [Unfolding](http://unfoldingmaps.org/) - Unfolding is a library to create interactive maps and geovisualizations in Processing and Java
 * [Data Maps](http://datamaps.github.io/) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
 * [Batch Geocode](http://www.findlatitudeandlongitude.com/batch-geocode/) - Amazing, useful batch geocode tool, don't have words for it
+* [Geojson mapping](http://geojson.io/#map=2/20.0/0.0) - map made simple
 
 ### Data <div id="data"></div>
 * [Code beautify](http://codebeautify.org/) - best tool for data convertion into other formats
@@ -145,6 +147,8 @@ ___
 * [Tabula](http://tabula.technology/) - extract tables from PDF files
 * [CSVKit](https://csvkit.readthedocs.io/en/0.9.1/) - a suite of utilities for converting to and working with CSV
 * [Batch Geocode](http://www.findlatitudeandlongitude.com/batch-geocode/) - Amazing, useful batch geocode tool, don't have words for it
+* [Regression.js](https://github.com/Tom-Alexander/regression-js) - a javascript library containing a collection of least squares fitting methods
+
 
 <div id="apis"></div>
 ### Cool APIs 
