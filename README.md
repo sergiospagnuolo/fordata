@@ -82,6 +82,7 @@ ___
 * [Polestar](http://vega.github.io/polestar/) - lightweight Tableau-style interface for visual analysis
 * [Vega](https://vega.github.io/) - declarative format for creating, saving, and sharing visualization designs
 * [Easychart](http://www.easychart.org/) - a visual editor for Highcharts in drupal
+* [Victory](http://formidable.com/open-source/victory/) - an ecosystem of modular data visualization components
 
 
 <div id="maps"></div>
