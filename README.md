@@ -11,6 +11,7 @@ Tools for: [Graphs](#graphs) - [Maps](#maps) - [Data](#data) - [APIs](#apis) - [
 ___
 
 <div id="graphs"></div>
+
 ### Graphs
 
 * [CDN](https://cdnjs.com/) - Useful CDN links for several JS libraries
@@ -86,7 +87,9 @@ ___
 
 
 <div id="maps"></div>
+
 ### Maps 
+
 * [Leaflet](http://leafletjs.com/) - Js library for maps (uses CDN)
 * [Polymap](http://polymaps.org/) - free JS library for dynamic, interactive maps
 * [Open Refine address to LAT/LONG](https://github.com/OpenRefine/OpenRefine/wiki/Geocoding) - transform address to lat/long values in a CSV using Open Refine
@@ -118,6 +121,7 @@ ___
 * [Geojson mapping](http://geojson.io/#map=2/20.0/0.0) - map made simple
 
 ### Data <div id="data"></div>
+
 * [Code beautify](http://codebeautify.org/) - best tool for data convertion into other formats
 * [Google API](https://developers.google.com/identity/)
 * [R](https://www.r-project.org/) - statistical analysis software
@@ -152,20 +156,26 @@ ___
 
 
 <div id="apis"></div>
+
 ### Cool APIs 
+
 * [SWAPI](https://swapi.co/) - API with data about Star Wars all data available as JSON [here](https://github.com/phalt/swapi/tree/master/resources/fixtures#)
 * [CityBikes](http://api.citybik.es/v2/) - data on bike sharing
 * [API of Ice and Fire](https://anapioficeandfire.com/) - GOT
 
 <div id="noncms"></div>
+
 ### Non-CMS solutions 
+
 * [Jekyll](https://jekyllrb.com/) - cool way to publish on the web without fucking trying to kill yourself with other CMS solutions (I am not against CMS, I like them, but boy they are demanding fuckers)
 * [Prose](https://github.com/prose/prose) - web-based interface for managing content on GitHub
 * [Newsplay](https://github.com/jueyang/newsplay) - gives out prompts for writing/publishing news with different tools, to different audience, on different platforms - from CUNY's [Jue Yang](https://twitter.com/jue_yang)
 * [Assembly](http://themeforest.net/item/assembly-multipurpose-theme-with-page-builder/12536114) - page builder, drag and drop style
 
 <div id="jk"></div>
+
 ### Cool Jekyll templates 
+
 * [Strata](http://jekyllthemes.org/themes/strata/)
 * [Uno](http://jekyllthemes.org/themes/jekyll-uno/)
 * [Agency](http://jekyllthemes.org/themes/agency/)
@@ -177,7 +187,9 @@ ___
 * [Slender](http://jekyllthemes.org/themes/slender/)
 
 <div id="stuff"></div>
+
 ### Other stuff 
+
 * [Story Builder](http://storybuilder.jumpstart.ge/en) - engine para publicação de histórias, dá para baixar o código e publicar no seu servidor
 * [Stack Edit](https://stackedit.io/editor) - editor online de Markdown
 * [AWS S3](http://aws.amazon.com/s3/)
@@ -201,23 +213,22 @@ ___
 * [Epic editor](http://epiceditor.com/) - embeddable javascript markdown editor
 * [Assemble](http://assemble.io/) - static site generator with node.js
 
-
-####### ref 1.: [TNW](http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/)
-####### ref 2.: [INN](http://nerds.inn.org/toolbox/)
-####### ref 3.: [Visual Cinnamon](http://www.visualcinnamon.com/)
-####### ref 4.: [Medium Volt](https://medium.com/volt-data-lab/26-ferramentas-para-visualiza%C3%A7%C3%A3o-de-dados-avaliadas-pelo-volt-654c5a590497#.7lof0g732)
-####### ref 5.: [Medium Volt 2](https://medium.com/volt-data-lab/6-ferramentas-para-extrair-dados-da-internet-avaliadas-pelo-volt-586b6352fdd2#.jbd8yb9a2)
-####### ref 6.: [TNW](http://thenextweb.com/apps/2012/09/29/the-best-apps-communities-tools-writers-journalists/)
-####### ref 7.: [Dev Seed](http://inspire.blufra.me/big-data-visualization-review-of-the-20-best-tools/)
-####### ref 8.: [Dev Seed](https://developmentseed.org/projects/landsat-util/)
-####### ref 9.: [Dev Seed](https://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/)
-####### ref 10.: [Dev Seed](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
-####### ref 11.: [GitHub](https://github.com/prose/starter)
-####### ref 12.: [GitHub](https://github.com/jueyang/know-your-tools)
-####### ref 13.: [GitHub](https://github.com/jueyang/mapmakers-cheatsheet)
-####### ref 14.: [CB](http://www.creativebloq.com/design-tools/data-visualization-712402)
-####### ref 15.: [Silk](http://data-journalism-tools.silk.co/)
-####### ref 16.: [TS](http://techslides.com/50-javascript-charting-and-graphics-libraries)
+ref 1.: [TNW](http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/)
+ref 2.: [INN](http://nerds.inn.org/toolbox/)
+ref 3.: [Visual Cinnamon](http://www.visualcinnamon.com/)
+ref 4.: [Medium Volt](https://medium.com/volt-data-lab/26-ferramentas-para-visualiza%C3%A7%C3%A3o-de-dados-avaliadas-pelo-volt-654c5a590497#.7lof0g732)
+ref 5.: [Medium Volt 2](https://medium.com/volt-data-lab/6-ferramentas-para-extrair-dados-da-internet-avaliadas-pelo-volt-586b6352fdd2#.jbd8yb9a2)
+ref 6.: [TNW](http://thenextweb.com/apps/2012/09/29/the-best-apps-communities-tools-writers-journalists/)
+ref 7.: [Dev Seed](http://inspire.blufra.me/big-data-visualization-review-of-the-20-best-tools/)
+ref 8.: [Dev Seed](https://developmentseed.org/projects/landsat-util/)
+ref 9.: [Dev Seed](https://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/)
+ref 10.: [Dev Seed](https://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
+ref 11.: [GitHub](https://github.com/prose/starter)
+ref 12.: [GitHub](https://github.com/jueyang/know-your-tools)
+ref 13.: [GitHub](https://github.com/jueyang/mapmakers-cheatsheet)
+ref 14.: [CB](http://www.creativebloq.com/design-tools/data-visualization-712402)
+ref 15.: [Silk](http://data-journalism-tools.silk.co/)
+ref 16.: [TS](http://techslides.com/50-javascript-charting-and-graphics-libraries)
 
 _I sometimes try to name the tool's creators, but I don't put much effort into finding their name. If you want attribution, reach me through Twitter._
 
