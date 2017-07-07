@@ -136,7 +136,7 @@ ___
 * [DataDeck](http://explorer.okfnlabs.org/#start) - clean your data and add it to a map or some simple visualization
 * [Frictionless data](http://data.okfn.org/) - tools for creating, viewing, validating, publishing, and working with Data Packages
 * [Table Setter](http://propublica.github.io/table-setter/) - Ruby app that provides an easy way to present CSVs hosted locally or remotely (e.g. on google, etc) in custom HTML
-* [RTG - Responsive Table Generator] (http://inn.github.io/responsive-tables/#) - makes responsive tables, quite useful
+* [RTG - Responsive Table Generator](http://inn.github.io/responsive-tables/#) - makes responsive tables, quite useful
 * [Convert CSV](http://www.convertcsv.com/) - it does that
 * [Cube](http://square.github.io/cube/) - system for collecting timestamped events and deriving metrics
 * [Quartz's guide about bada data](https://github.com/Quartz/bad-data-guide) - a guide to organize data
