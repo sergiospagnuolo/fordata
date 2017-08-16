@@ -1,10 +1,12 @@
+# This role repo was made into a searchable website called Prego! - [see the repo here](https://github.com/voltdatalab/prego)
+
 ## Advanced #DDJ tools reference list  
 
 This is a quick reference guide compiling numerous tools that can be used for journalistic purposes or other data/map-related approaches and projects.
 
 The great majority of tools and libraries shown here are free to use and or open-source. 
 
-_Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have any suggestions or tips for this list, reach me through [Twitter - @ProjetoStock](https://twitter.com/ProjetoStock)._
+_Compiled by [Sergio Spagnuolo](https://twitter.com/ProjetoStock). If you have any suggestions or tips for this list, reach me through [Twitter - @sergiospagnuolo](https://twitter.com/sergiospagnuolo)._
 
 Tools for: [Graphs](#graphs) - [Maps](#maps) - [Data](#data) - [APIs](#apis) - [Non CMS](#noncms) - [Jekyll](#jk) - [Other Stuff](#stuff)
 
