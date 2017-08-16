@@ -1,4 +1,4 @@
-# This role repo was made into a searchable website called Prego! - [see the repo here](https://github.com/voltdatalab/prego)
+# This hole repo was made into a searchable website called Prego! - [see the repo here](https://github.com/voltdatalab/prego)
 
 ## Advanced #DDJ tools reference list  
 
